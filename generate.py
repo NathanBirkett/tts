@@ -15,7 +15,7 @@ import random
 
 # pdf to png
 pytesseract.pytesseract.tesseract_cmd = r'C:\Users\print\AppData\Local\Tesseract-OCR\tesseract.exe'
-images = convert_from_path("in.pdf", poppler_path=r"C:\Users\print\Documents\poppler-23.11.0\Library\bin")
+images = convert_from_path("inbig.pdf", poppler_path=r"C:\Users\print\Documents\poppler-23.11.0\Library\bin")
 # for i in range(len(images)):
 # # for i in range(1):
 #     text = " ".join([text, pytesseract.image_to_string(images[i], lang="vie", config="")])
@@ -62,10 +62,13 @@ chapters = text.split("Drills")
 chapters.pop()
 with open("out3.txt", "a+", encoding='utf-8') as f:
     for i in range(len(chapters)):
-        os.mkdir()
+        if not os.path.exists("out/{}".format(i)):
+            os.mkdir("out/{}".format(i))
         chapter = re.split(r'\d+.\n', chapters[i])
         chapters[i] = chapter
         for j in range(len(chapter)):
+            if not os.path.exists("out/{}/{}".format(i, j)):
+                os.mkdir("out/{}/{}".format(i, j))
             section = re.split(r'\d+[.,] ', chapter[j])
             chapters[i][j] = section
             for k in range(len(section)):
@@ -76,10 +79,10 @@ with open("out3.txt", "a+", encoding='utf-8') as f:
                 results = []
                 lastlang = ""
                 firstlang = ""
-                for i in range(len(question.split())):
+                for l in range(len(question.split())):
                     # identify language
-                    word = question.split()[i]
-                    if re.search("[^\x00-\x7F]", word) or word.lower().translate(str.maketrans('', '', string.punctuation)) in ["kia", "xe", "con", "mua", "y", "mai", "lan", "cam", "nay", "xem", "xa", "sinh", "hai", "bia", "ngon", "to", "sang", "ba", "quen", "qua", "bao", "trang", "ai", "ty", "ta"] + list(range(10)):
+                    word = question.split()[l]
+                    if re.search("[^\x00-\x7F]", word) or word.lower().translate(str.maketrans('', '', string.punctuation)) in ["kia", "xe", "con", "mua", "y", "mai", "lan", "cam", "nay", "xem", "xa", "sinh", "hai", "bia", "ngon", "to", "sang", "ba", "quen", "qua", "bao", "trang", "ai", "ty", "ta", "hay"] + list(range(10)):
                         lang = "vi"
                     else:
                         try:
@@ -94,7 +97,9 @@ with open("out3.txt", "a+", encoding='utf-8') as f:
                         except:
                             lang = "en"
                     if i == 1:
-                        firstlang = lang
+                        # firstlang = lang
+                        firstlang = "vi"
+                    lang = "vi"
                     # compile into strings
                     try:
                         if lang == lastlang:
@@ -112,7 +117,7 @@ with open("out3.txt", "a+", encoding='utf-8') as f:
                     for n in range(len(results)):
                         print("{}-{}-{}".format(i, j, k))
                         try:
-                            tts = gTTS(text=results[n], lang=firstlang if n%2 == 0 else secondlang)
+                            tts = gTTS(text=results[n], lang="vi")
                             tts.write_to_fp(ff)
                         except:
                             print(results)
