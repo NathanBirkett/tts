@@ -15,7 +15,7 @@ import random
 
 # pdf to png
 pytesseract.pytesseract.tesseract_cmd = r'C:\Users\print\AppData\Local\Tesseract-OCR\tesseract.exe'
-images = convert_from_path("inbig.pdf", poppler_path=r"C:\Users\print\Documents\poppler-23.11.0\Library\bin")
+images = convert_from_path("in.pdf", poppler_path=r"C:\Users\print\Documents\poppler-23.11.0\Library\bin")
 # for i in range(len(images)):
 # # for i in range(1):
 #     text = " ".join([text, pytesseract.image_to_string(images[i], lang="vie", config="")])
@@ -33,6 +33,11 @@ for i in range(len(images)):
     nearest = 70
     ctrs.sort(key=lambda r: [int(nearest * round(float(r[1][1]) / nearest)), r[1][0]])
 
+
+    cv2.drawContours(image, contours, -1, (0,255,0),3)
+    cv2.imwrite("3rd edition/imwrite.png", image)
+    #
+    
     im_new = gray.copy()
     j = 0
     for c in ctrs:
