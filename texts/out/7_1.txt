@@ -1,0 +1,55 @@
+<chap>
+<sec>
+<part>
+A. Write questions and replies, using the words given in the parentheses.
+EXAMPLE (ông Thắng), (42) → Năm nay ông Thắng bao nhiêu? Năm nay ông Thắng 42. 
+</part>
+1. (bà Ngọc), (51) 
+2. (cháu Dũng), (8) 
+3. (ông Johnson), (65) 
+4. (bà Châu), (47) 
+5. (chị Mai), (33) 
+6. (anh Hải), (29) 
+7. (chú Thịnh), (58) 
+8. (anh Hùng), (27) 
+9. (cô Lan), (17) 
+10. (cụ Hiền), (86) 
+11. (em Bảo), (10) 
+12. (bác Thanh), (54) 
+13. (chị Nhung), (18) 
+14. (cô Tuyết), (46) 
+</sec>
+<sec>
+<part>
+B. Give answers to the following questions, using the words given in the parentheses.
+EXAMPLE Anh chuyên về gì? (toán) → Tôi chuyên về toán. 
+</part>
+1. Chị chuyên về gì? (tiếng Việt) 
+2. Anh chuyên về gì? (lịch sử Mỹ) 
+3. Họ chuyên về gì? (tiếng Trung Quốc) 
+4. Bà ấy chuyên về gì? (sinh học ) 
+5. Ông kỹ sư ấy chuyên về gì? (xe ô tô) 
+6. Ông Thành chuyên về gì? (lịch sử Nhật) 
+7. Chị chuyên về gì? (văn học  Anh) 
+8. Anh ấy chuyên về gì? (xe máy Nhật) 
+9. Ông chuyên về gì? (máy vi tính) 
+10. Cô Lan chuyên về gì? (văn học Ý) 
+</sec>
+<sec>
+<part>
+C. Based on the content of the narrative, give answers to the following questions. 
+</part>
+1. Anh Jeff năm nay bao nhiêu? 
+2. Jeff tốt nghiệp trung học bao giờ? 
+3. Hiện giờ Jeff học trường nào? 
+4. Gia đình Jeff ở thành phố nào? Bang  nào? 
+5. Gia đình Jeff có mấy người? Đó là những ai? 
+6. Bố Jeff chuyên về gì? Làm ở đâu? 
+7. Mẹ Jeff làm gì? Ở đâu? 
+8. Chị Jeff năm nay bao nhiêu tuổi? Chị ấy đã lập gia đình chưa? Hiện giờ ở đâu? 
+9. Em trai Jeff tên là gì? Đang học lớp mấy? 
+10. Em trai Jeff giỏi môn nào? Bố mẹ Jeff muốn em trai Jeff thi vào trường nào? 
+11. Khi nào Jeff từ California về thăm nhà? 
+12. Khi nào bạn thường  về thăm nhà?
+</sec>
+</chap>

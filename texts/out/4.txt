@@ -1,0 +1,106 @@
+<chap>
+<sec>
+<part>
+A. Give the answers to the following questions, using the numbers given in the parentheses.
+EXAMPLE Anh có mấy quyển từ điển? (3) → Tôi có ba quyển từ điển. 
+</part>
+1. Lớp này có bao nhiêu sinh viên? (14) 
+2. Họ mua mấy cái ô? (5) 
+3. Phòng này có bao nhiêu chiếc ghế? (25) 
+4. Cây dừa kia có bao nhiêu quả? (34) 
+5. Dũng ghi bao nhiêu từ mới? (41) 
+6. Hiệu này bán bao nhiêu chiếc xe cũ? (15) 
+7. Phố ấy có mấy ngôi nhà cao? (4) 
+8. Trường này có bao nhiêu lớp? (21) 
+9. Sinh viên làm  mấy bài tập? (7) 
+10. Bệnh viện ấy có bao nhiêu bác sĩ? (60) 
+11. Bao nhiêu kỹ sư làm việc ở đây? (74) 
+12. Bưu điện này có bao nhiêu người làm việc? (24) 
+13. Ngôi nhà ấy có mấy phòng? (8) 
+14. Bao nhiêu sinh viên học tiếng Việt? (35) 
+15. Bao nhiêu sinh viên học tiếng Nhật? (98) 
+16. Phòng này có bao nhiêu cái bàn? (11) 
+17. Bạn quen bao nhiêu sinh viên ở trường này? (95) 
+18. Thành phố ấy có bao nhiêu trường đại học? (14) 
+19. Họ mua bao nhiêu cuốn sách? (22) 
+20. Sổ  ghi từ mới có bao nhiêu từ? (85) 
+21. Lớp này có mấy quyển từ điển Việt-Anh? (5) 
+</sec>
+<sec>
+<part>
+B. Read the following sentences and put questions with mấy or bao nhiêu to them. 
+</part>
+1. Bố mẹ có 2 chiếc xe. 
+2. Họ mua 15 tờ báo và tạp chí. 
+3. 21 bác sĩ làm việc ở bệnh viện ấy. 
+4. Cây bưởi này có 48 quả. 
+5. Lớp tiếng Tây Ban Nha có 99 sinh viên. 
+6. Hiệu ấy bán 35 cuốn từ điển Anh-Việt và 17 cuốn từ điển Việt-Anh. 
+7. Trường này có 19 cô giáo và 15 thày giáo. 
+8. 31 sinh viên học tiếng Pháp và 45 sinh viên học tiếng Đức. 
+9. Phố Trần Hưng Đạo có 8 toà nhà cao. 
+10. Thành phố này có 4 bưu điện. 
+11. Trường ấy có 3 lớp tiếng Việt. 
+12. Mẹ mua 20 quả cam. 
+13. Thắng vẽ 10 con chim và 2 con cá. 
+14. Hùng nhớ 71 từ khó. 
+15. Dũng ăn 3 quả xoài. 
+16. Lớp tiếng Việt năm thứ hai có 15 sinh viên, 8 nam  và 7 nữ  
+17. Mary hiểu 12 câu hỏi. 
+18. Cô ấy trả lời đúng 10 câu hỏi. 
+19. Ngôi nhà kia có 24 phòng. 
+20. Bài ấy có 22 từ mới. 
+</sec>
+<sec>
+<part>
+C. Fill in the blanks, using the proper personal pronouns. 
+</part>
+1. Tôi hỏi một người bạn:  “[trống] có thích nhạc Mozart không?”
+2. Thày giáo nói với sinh viên:  “Hôm nay [trống] học bài mới.”
+3. Sinh viên hỏi cô giáo:  “Thưa [trống], bài này có nhiều từ mới không ạ?”
+4. Bà Ngọc làm việc ở trường Đại học Huế. [trống] dạy tiếng Pháp. 
+5. Dũng chào bác Thắng:  “Chào [trống] ạ!”
+6. [trống] là người Mỹ. Còn các ông các bà là người nước nào? 
+7. Anh Hiển là bác sĩ. [trống] làm việc ở bệnh viện Saint-Paul. 
+8. Cô giáo hỏi học sinh : “[trống] có nhớ từ ấy không?” Học sinh trả lời:  “Thưa [trống], có ạ!”
+9. Những người này là sinh viên. [trống] học tiếng Việt. 
+10. - Ông Hải làm việc ở đâu? - [trống] làm kỹ sư ở nhà máy  
+11. Tôi không thích cái áo này. [trống] ngắn  quá. 
+12. Chúng tôi chào cụ Hiền:  “Chào [trống] ạ! [trống] có khoẻ không?”
+13. Cháu Phương học lớp hai  [trống] rất thích vẽ. 
+14. Mình gặp chị Lan. [trống] mời mình đi ăn cơm Việt Nam. 
+15. Mẹ hỏi con: “[trống] có thích ăn cam không?” Con trả lời:  “[trống]thích lắm ạ.”
+</sec>
+<sec>
+<part>
+D. Answer the following questions.
+EXAMPLE Chào anh. Anh có khoẻ không? (cô, tôi) [trống] → Cám ơn cô, tôi khoẻ. 
+</part>
+1. Anh có hiểu câu hỏi này không? (thày, em) [trống] 
+2. Bà Khanh làm bác sĩ ở đâu? (bà ấy) [trống] 
+3. Cháu học lớp mấy?  (bác, cháu) [trống] 
+4. Ông có quen ông Tuấn không? (tôi, ông ấy) [trống] 
+5. Thưa cô, hôm nay chúng em học bài mới, phải không ạ? (các anh các chị) [trống] 
+6. Anh John học ở đâu? (anh ấy) [trống] 
+7. Bà tên là gì? (ông, tôi) [trống] 
+8. Cô Hồng và cô Thảo học tiếng Anh ở đâu? (bà, các cô ấy) [trống] 
+9. Các anh làm việc ở đâu? (chị, chúng tôi) [trống] 
+10. Chị có thích chiếc xe này không? (nó) [trống] 
+</sec>
+<sec>
+<part>
+E. Add the particles thưa and ạ to the following sentences.
+EXAMPLE A: Đây có phải là bưu điện không? → A: Thưa ông/bà/…, đây có phải là bưu điện không [ạ]? B: Vâng. → B: Vâng ạ. 
+</part>
+1. Thày có phải là thày giáo tiếng Việt không? 
+2. A: Bà có quen ông ấy không? B: Tôi không quen ông ấy. 
+3. A: Ông có biết tiếng Đức không? B: Không. 
+4. A: Bà bác sĩ ấy làm việc ở bệnh viện Saint Paul, phải không? B: Vâng, bà ấy làm việc ở bệnh viện Saint Paul. 
+5. A: Ông là kỹ sư Thắng, phải không? B: Không phải, tên tôi là Hiển. 
+6. A: Họ có phải là sinh viên lớp tiếng Nhật không? B: Vâng. 
+7. A: Anh có báo mới không? B: Không. 
+8. A: Ông có biết tiếng Trung Quốc không? B: Vâng, tôi biết. 
+9. A: Thư viện trường này có báo và tạp chí tiếng Việt không? B: Có. 
+10. A: Bác là người Pháp à? B: Vâng.
+</sec>
+</chap>

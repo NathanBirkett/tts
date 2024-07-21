@@ -1,0 +1,33 @@
+<chap>
+<sec>
+<part>
+A. Change the following active constructions into passive ones. 
+EXAMPLE Nhiều người khen anh ấy. (được) → Anh ấy được nhiều người khen. 
+</part>
+1. Giáo sư Tiến viết cuốn sách này. (do) 
+2. Chiến tranh đã tàn phá thành phố Dresden vào tháng 2 năm 1945. (bị) 
+3. Lớp chúng tôi sẽ tổ chức hoạt động ngoại khoá ấy. (do) 
+4. Bạn tôi giới thiệu tôi với một giáo sư nổi tiếng về máy vi tính. (được) 
+5. Mẹ đánh con. (bị) 
+6. Nhiều người chú ý đến chương trình ti vi này. (được) 
+7. Louis Pasteur thành lập Viện  nghiên cứu này vào cuối thế kỷ trước. (do) 
+8. Trường Đại học Paris đã mời giáo sư Toàn sang dậy lịch sử Việt Nam. (được) 
+9. Chị tôi nấu món này. (do) 
+10. Nhiều người chúc mừng cô ấy sau khi bảo vệ luận án tiến sĩ. (được) 
+11. Kỹ sư Dũng chữa chiếc máy đó. (do) 
+</sec>
+<sec>
+<part>
+B. Give answers to the following questions. 
+</part>
+1. Hà Nội được thành lập khi nào? Khi ấy thành phố tên là gì? 
+2. Thành phố nào là thủ đô của Việt Nam từ năm 1802 đến năm 1945? 
+3. Sông nào chảy  qua thành phố Hà Nội? 
+4. Khu nào được coi là trung tâm Hà Nội? 
+5. Hà Nội có những di tích lịch sử quan trọng nào? 
+6. Các cơ quan của Nhà nước, của Chính phủ nồm ở khu nào? 
+7. Đại sứ quán Mỹ ở phố nào? 
+8. Vì sao người ta gọi Hà Nội là thành phố của trường đại học? 
+9. Vì sao Hà Nội là một thành phố cổ mà không còn lại nhiều công trình kiến trúc cổ?
+</sec>
+</chap>
