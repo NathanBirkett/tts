@@ -1,0 +1,1392 @@
+"à";"interrogative particle; initial particle";2 13
+"ạ";"polite final particle";4
+"ai?";"who?";1
+"ai đấy";"someone";14
+"ai đó";"someone";14
+"ai cũng";"everybody";10
+"Anh";"England; English";1 2
+"anh";"elder brother; you";1
+"ảnh";"photo, picture";7
+"ảnh hưởng";"(to) influence";14
+"ao";"pond";13
+"áo";"shirt";2
+"áo dài";"Vietnamese traditional flowing tunic";10
+"áo mưa";"raincoat";14
+"áo ngắn tay";"short sleeve shirt";11
+"ăn";"to eat";1
+"ăn chay";"to be a vegetarian";13
+"ăn sáng";"to eat breakfast";5
+"ăn sinh nhật";"to celebrate one’s birthday";5
+"ăn tối";"to have dinner, supper";9
+"ăn trưa";"to have lunch";9
+"ấy";"that";1 2
+"âm";"minus";14
+"ấm";"warm";9
+"ấm áp";"pleasantly warm (reduplicative)";14
+"ẩm";"humid";14
+"độ ẩm";"humidity";14
+"ba";"three; father";4 2
+"bà";"grandmother; lady; you";4 1
+"bác";"uncle, aunt";4
+"bác sĩ";"doctor, physician";1
+"bài";"lesson; (newspaper) article";9 1
+"bài hát";"song";11
+"bài tập";"exercise";2
+"bài tập về nhà";"homework";8
+"ban đêm";"night time";5
+"ban ngày";"day time";5
+"bàn";"table; to discuss";11 2
+"bàn ghế";"furniture";10
+"bán";"to sell";1
+"bán mở hàng";"to sell for the first time in a day (of a store, business, etc.)";11
+"bạn";"friend";4
+"bang";"state";7
+"bảng";"chalkboard, blackboard";8
+"Bảng";"pound (monetary unit of the United Kingdom)";11
+"bánh";"cake, pie, cookies";13
+"bánh chưng";"New Year rice cake";13
+"bánh cuốn";"steamed springrolls";13
+"bánh mì";"bread";10
+"bao giờ?";"when?";5
+"bao giờ … cũng";"always";10
+"bao lâu?";"[for] how long?";6
+"bao nhiêu?";"how many?";4
+"bao xa?";"how far?";9
+"báo";"newspaper";1
+"bảo";"to tell";12
+"bảo tàng";"museum";10
+"bảo vệ";"to defend";7
+"bão";"storm, tornado, typhoon";14
+"bão tuyết";"snowstorm";14
+"bát";"bowl";10
+"bảy";"seven";2
+"bắc";"North; Northern";10
+"băng";"ice (not for drinking)";14
+"bằng";"equal; in, by; (made) of; used to form the positive of adjectives and adverbs";11 10 8 14
+"bắt";"to force (someone to do something)";12
+"bắt đầu";"to start, begin";6
+"bắt tay";"to start doing something, set to work, set about something";10
+"bắt tay vào";"to start doing something, set to work, set about something";10
+"bận";"to be busy";4
+"bây giờ";"now";5
+"béo";"fat";9
+"béo ra";"to get fat";9
+"bể";"sea (in some word-combinations)";13
+"cua bể";"sea-crab; sea-crab";13
+"bể bơi";"swimming pool";9
+"bên";"side";7
+"bến xe buýt";"bus stop";9
+"bệnh";"disease, illness, ailment";12
+"bệnh viện";"hospital";3
+"Bệnh viện Đa khoa Massachusetts";"Massachusetts General Hospital";7
+"bị";"passive voice marker; to suffer";10 12
+"bị mất cắp";"to have something stolen";10
+"Anh bị sao?";"What’s the matter?";12
+"bia";"beer";3
+"bia hơi";"beer from a tap";13
+"biển";"sea, ocean";9
+"biết";"to know";2
+"bình thường";"(as) usual, O.K.";12
+"bò";"cow, beef";13
+"bỏ";"to give up";12
+"bóng bàn";"table tennis";9
+"bóng chuyền";"volleyball";9
+"bóng rổ";"basketball";9
+"Bồ Đào Nha";"Portugal; Portuguese";2
+"bố";"father";1
+"bố mẹ";"parents";1
+"bộ";"set; classifier for movies, etc.";4
+"bốn";"four";2
+"bỗng";"suddenly, all of a sudden";14
+"bỗng nhiên";"suddenly, all of a sudden";14
+"bờ";"bank, shore, coast";9
+"bờ sông";"riverside";9
+"bơi";"to swim";9
+"bớt";"to take off, have discount for someone";11
+"bún";"soft noodles made from rice flour";13
+"bùng binh";"traffic circle, rotary";10
+"bụng";"belly, stomach";12
+"buổi";"length of time, division of the day";5
+"buồn nôn";"nauseous";12
+"buốt";"sharp (of pain, wind)";14
+"rét buốt";"piercingly cold; piercingly cold";14
+"bút";"pen";2
+"bữa ăn";"meal";13
+"bữa cơm";"meal";12
+"bức";"hot and sultry; classifier for letters, paintings, etc.";14 12
+"bưởi";"grapefruit";2
+"bưu điện";"post office";1
+"cà";"Vietnamese eggplant, aubergine";13
+"cá";"fish";2
+"cả";"at all; all, whole; even";13 9 12 10
+"các";"plural marker";3
+"các cháu";"your children";12
+"cách";"be distant from; manner, method, way";9 12
+"cách đây";"ago";7
+"cách mạng";"revolution";10
+"cái";"classifier for inanimate things";2
+"cái gì";"what";2
+"cái gì đấy";"something";14
+"cái gì đó";"something";14
+"cam";"orange";2
+"cám ơn";"to thank";1
+"cảm";"to catch a cold";12
+"cảm lạnh";"to catch a cold";12
+"canh";"Vietnamese soup";13
+"cảnh sát";"police";13
+"cạnh";"next, adjacent";11
+"cạnh tranh";"to compete";11
+"cao";"tall, high";2
+"cao học";"master’s degree student";8
+"cao nguyên";"plateau, highlands";14
+"cay";"hot, spicy";11
+"cân";"kilogram";11
+"cần";"(to) need";9 2
+"cẩn thận";"careful";14
+"cấp cứu";"emergency";12
+"xe cấp cứu";"ambulance";12
+"câu";"sentence";8
+"câu hỏi";"question";1
+"câu lạc bộ";"club";9
+"cầu";"bridge";10
+"cầu lông";"badminton";9
+"cậu";"uncle, you";4 3
+"cây";"tree; classifier for trees";2
+"cây số";"kilometer";9
+"căn";"classifier for houses";7
+"có";"to have";1
+"có...không";"interrogative construction";1
+"có phải...không";"interrogative construction";1
+"có chồng";"to be married (speaking of a woman)";7
+"có gia đình";"to be married";7
+"có khi";"occasionally";14
+"có lẽ";"probably, perhaps";9
+"có nhà";"to be at home";4
+"có thể";"can, may, to be able";9
+"có từ rất lâu";"long established";11
+"có vợ";"to be married (speaking of a man)";7
+"coi là";"to consider";10
+"coi như";"to consider";10
+"con";"child; classifier for animals, fish, birds";4 10 2
+"con gái";"daughter";7
+"con trai";"son";7
+"còn";"as for; and; still";1 3 6
+"còn lại";"to remain";10
+"còn mình thì";"as for me";9
+"còn … nữa";"more, further";9
+"còn … thì";"as for";10
+"cô";"aunt; Miss; you";1
+"cô bán hàng";"salesgirl, saleswoman";11
+"cô giáo";"(female) teacher";1
+"cố gắng";"to do one’s best";12
+"cổ";"old, ancient";8
+"cổ truyền";"traditional";9
+"cốc";"cup";10
+"công nghiệp";"industry";14
+"công trình";"edifice, structure";10
+"công ty";"company";7
+"công viên";"park";9
+"cộng";"to add";14
+"cộng với";"to add";14
+"cơ chế";"structure, system";11
+"cơ quan";"one’s workplace; bureau, office, agency";9 10
+"cỡ";"size";11
+"cởi";"to take off (one’s clothes)";12
+"cởi ra";"to take off (one’s clothes)";12
+"cơm";"rice, food, cuisine";3 13
+"cơm bình dân";"food, the price of which is affordable to everybody";11
+"cơn";"classifier";14
+"cũ";"old (speaking of inanimate things)";1
+"cụ";"great-grandparent";4
+"cua";"crab";13
+"của";"of (preposition), from";8 13
+"cúm";"influenza, flu";12
+"cung cấp";"to supply, provide";11
+"cùng";"together";7
+"cùng một lúc";"at the same time";13
+"cùng với";"together with";7
+"cũng";"also, too";1 3
+"cuộc";"classifier for events in which a number of people take part";11 10
+"cuộc đời";"life";10
+"cuối cùng";"last";8
+"cuối giờ";"at the end of the class";8
+"cuốn";"classifier for books";2
+"cổng";"gate";9
+"cứ";"continuing without interruption";8
+"cứ tự";"nhiên feel free and go ahead";11
+"cửa";"door";4
+"cửa hàng";"shop, store";11
+"cửa hiệu";"small shop, store";11
+"cửa sổ";"window";11
+"cha";"father";4
+"chả";"meat paste, meat pie";13
+"chả cá";"grilled fish";13
+"chai";"bottle";11
+"chang chang";"(of the sun) hot and blinding";14
+"chanh";"lime, lemon";1
+"chào";"to greet";1
+"cháo";"rice gruel, porridge";13
+"cháu";"nephew or niece; grandchild";4
+"chảy";"to flow";10
+"chạy";"to run";6
+"chắc";"to be sure, probably";14 12
+"Tôi chắc …";"I am sure that …";14
+"chắc là";"to be sure, probably";14
+"chăm";"diligent, assiduous";9
+"chẳng";"(informal) no, not; zero";12
+"chấm";"to dip (food in sauce); point, dot, period";14 13
+"chậm";"slow";4
+"chật";"too small";11
+"châu Âu";"Europe";10
+"chèo";"Vietnamese traditional theater in the Red River delta";9
+"chê";"to criticize, belittle";10
+"chế biến";"to process (food)";13
+"chênh lệch";"to vary, differ";11
+"chết";"to die, to stop (of watches, clocks)";6
+"chỉ";"to show; to indicate";13 12
+"chỉ … thôi";"only";9
+"chị";"elder sister; you, Miss; your wife";1 12
+"chia";"to divide";14
+"chia cho";"to divide";14
+"chiếc";"classifier for inanimate things";2
+"chiếm";"to occupy";13
+"chiến tranh";"war";10
+"chiều";"evening";5
+"chim";"bird";2
+"chín";"nine; well-done";2 13
+"chính";"main; exactly, precisely, very";11 14
+"chính vì thế";"exactly for that reason";14
+"chính phủ";"government";10
+"chính thức";"official";11
+"chính trị";"politics";10
+"chịu";"to endure, bear";10
+"cho";"to give; for";11 1
+"cho đến bây giờ";"even now, even nowadays";13
+"cho hỏi";"to let someone ask";10
+"cho … hỏi";"to let someone ask";10
+"cho nên";"so";9
+"cho rằng";"to think, believe";13
+"chó";"dog";2
+"chọn";"to choose, pick up";13
+"chóng";"fast";12
+"chóng khỏi";"to get well fast";14
+"chóng mặt";"dizzy";12
+"chỗ";"place";10
+"chỗ gửi xe";"bike parking lot";10
+"chồng";"husband";6
+"chờ";"to wait";4 6
+"chở";"to deliver";11
+"chợ";"market, supermarket";1
+"chơi";"to play";9
+"chợt";"suddenly";14
+"chú";"father’s younger brother";4
+"chú ý";"to pay attention to; attentively, closely";8
+"chủ nhật";"Sunday";5
+"chuẩn bị";"to prepare";4
+"chúc";"to wish";12
+"chúc mừng";"to congratulate; congratulations";5
+"chục";"dozen";10
+"chúng ta";"we (including the person addressed)";4
+"chúng tôi";"we (excluding the person addressed)";4
+"chuối";"banana";2
+"chụp";"to take a photograph";14
+"chuyên";"to specialize (in)";7
+"chuyên về";"to specialize (in)";7
+"chuyến đi";"trip";14
+"chuyển";"to forward; to change to, shift to";11
+"chuyển sang";"to change to, shift to";11
+"chuyện";"issue, matter";12
+"chứ";"final particle";11 12
+"chứ không";"but not";13
+"chữ quốc ngữ";"modern romanized Vietnamese alphabet";12
+"chưa";"not yet";7
+"chưa ăn thua gì";"almost nothing";14
+"chữa";"to fix, to repair; to correct; to treat";8 12
+"chương trình";"program, plan";9
+"da";"leather";11
+"dài";"long";9
+"dao";"knife";10
+"dạo này";"these days, nowadays";4
+"dạy";"to teach";3
+"dần dần";"gradually, little by little";13
+"dậy";"(intransitive) to wake up, get up";13
+"dép";"sandal, slipper";11
+"dễ";"easy";1
+"dễ chịu";"pleasant";12
+"di tích";"vestiges, traces (of ancient times)";10
+"di tích lịch sử";"historic site";10
+"dị ứng";"allergy (to); to be allergic (to)";12
+"dị ứng với";"allergy (to); to be allergic (to)";12
+"dịch";"to translate";9
+"dịch vụ";"service";9
+"diễn ra";"to occur, take place";11
+"dịp";"chance, opportunity";9
+"do";"passive voice marker; because; due to; conjunction";11 10 14
+"dọn cơm";"to bring the food to the table, set the table for eating";13
+"dốc";"slope";10
+"đi hết dốc";"to come to the end of the slope";10
+"dông";"thunderstorm";14
+"dời";"to move";10
+"du lịch";"tourism; tourist";7
+"đi du lịch";"to travel";7
+"dùng";"to use, to eat (formal)";9 13
+"dự báo";"to forecast";14
+"dự báo thời tiết";"weather forecast; weather forecast";14
+"dưa";"salted vegetables";13
+"dừa";"coconut";1
+"dứa";"pineapple";1
+"dừng bút";"to stop writing";12
+"dưới";"under, below, underneath";9
+"dương";"plus";14
+"đa dạng";"diverse, varied";11
+"đá";"stone; ice";11 13
+"đã";"to have happened, occurred";7
+"đài";"radio, radio station";8
+"đại học";"college, university";2
+"đại học bách khoa";"polytechnic institute, university of technology";7
+"đại sứ quán";"embassy";10
+"đám";"classifier for clouds, crowds";14
+"Đan Mạch";"Denmark";14
+"đang";"to be happening, occuring";7
+"đánh";"to hit, beat";9
+"đánh quần vợt";"to play tennis";9
+"đào tạo";"to train";8
+"đạp xe";"to ride a bicycle";9
+"đau";"(to feel a) pain";12
+"đặc biệt";"special";13
+"đặc sản";"specialties, specials";13
+"đằng";"side (in some word-combinations)";10
+"đằng kia";"over there";10
+"đắt";"expensive";1
+"đặt";"to put; to reserve, book";8 13
+"đâu?";"where?";9
+"đâu";"final particle, emphasizing the negation";11
+"đầu";"head, beginning";10
+"đầu đường";"at the beginning of the street";10
+"đầu tiên";"first";8
+"đậu";"bean, pea";13
+"đậu phụ";"tofu";13
+"đây";"here; this";1
+"đấy";"there; that; so, thus";1 7
+"đen";"black";2
+"đèn";"lamp, light, traffic light";10
+"đeo";"to carry, wear";11
+"đèo";"mountain pass";14
+"đẹp";"beautiful";1
+"để";"to let someone do something; in order to";9 14
+"để làm gì?";"for what purpose?";9
+"đêm";"night";5
+"đêm Giao thừa";"New Year’s Eve";10
+"đền";"temple";10
+"đến";"to come; to (preposition); up to";10 5 6
+"đều";"equal(ly)";13
+"đi";"to go; to wear";11 1
+"đi bộ";"to go on foot, walk";9
+"đi chơi";"to go out, walk around";9
+"đi chơi xa";"to leave the town to relax";9
+"đi công tác";"to go on a business trip";14
+"đi học";"to go to class";8
+"đi khám bác sĩ";"to go to (see) the doctor";12
+"đi lại";"to move from one place to another";10
+"đi làm";"to go to work";9
+"đi ngoài";"diarrhea";12
+"đi ngủ";"to go to bed";1
+"đĩa";"plate";13
+"địa lý";"geography";14
+"điểm";"point, grade, mark";9 12
+"điểm du lịch";"point of interest, tourist attraction";9
+"điện thoại";"telephone";10
+"điện thoại di động";"cell phone";11
+"điều kiện";"condition";14
+"định";"to plan";3
+"đó";"there; that";1
+"đỏ";"red";2
+"đọc";"to read";1
+"đói";"to be hungry";10
+"đón";"to pick up someone";9
+"đóng vai trò";"to play a role";11
+"đồ chơi";"toy";11
+"đồ dùng";"appliance, utensil";11
+"đồ dùng gia đình";"household appliances";11
+"độ";"degree; approximately, about";10 12
+"độc lập";"independent";10
+"đôi";"pair";11
+"đôi khi";"sometimes";14
+"đối với";"for, to";9 14
+"đội";"to wear";11
+"đông";"winter; crowded, having many people; east; eastern";8 7 11
+"Đông Nam Á";"Southeast Asia";13
+"đồng";"field";13
+"đồng bằng";"delta, plain";14
+"đồng hồ";"watch, clock";6
+"đồng ý";"to agree (with)";9
+"đồng ý với";"to agree (with)";9
+"đỡ";"to lessen, relieve";12
+"đỡ nhức đầu";"a headache lessens";12
+"đời sống";"life";11
+"đợi";"to wait";6
+"đơn";"application";12
+"đơn thuốc";"prescription";12
+"đợt";"a wave of something";14
+"đu đủ";"papaya";1
+"đủ";"enough";9
+"đũa";"chopsticks";9
+"đúng";"correct, right";3
+"đúng giờ";"on time";9
+"đưa";"to carry; to pass";11 10
+"Đức";"Germany";2
+"đừng";"do not (imperative)";8
+"đứng";"to stand, to stop, to be dead (of watches, clocks)";6
+"được";"to receive; to have the opportunity to do something; passive voice marker; to be able to; O.K.";8 10 11 12
+"được không?";"is it O.K.?";11
+"được cái";"but (having a good point)";14
+"đường";"way, road";10
+"đi đường nào?";"what way to take?";10
+"đường cao tốc";"highway";9
+"đường một chiều";"one-way street";10
+"đường sá";"roads (collective noun)";14
+"em";"younger brother or sister";4
+"em gái";"younger sister";7
+"em trai";"young brother";7
+"ga";"station";9
+"gà";"chicken";13
+"gác";"to go upstairs";8
+"gái";"female";7
+"gạo";"rice";13 12
+"gạo nếp";"glutinous rice, sticky rice";13
+"găng";"glove";11
+"gặp";"to meet, see, run into";4
+"gặp nhau";"to meet with each other, get together";9
+"gần";"near, close; about, approximately";6 9 2
+"gần đây";"recent";9
+"gần như";"almost";14
+"gây ra";"to cause";14
+"gầy đi";"to get thin";9
+"ghé qua";"to stop by";9
+"ghế";"chair";2
+"ghi";"to write down";1
+"ghi tên";"to put oneself down for, enroll, sign up";12
+"gõ";"to knock";14
+"gõ cửa";"to knock at the door";14
+"gọi";"to order";13
+"gọi là";"to (be) call(ed) something";10
+"gọi … là";"to (be) call(ed) something";10
+"gọi điện thoại";"to telephone";8
+"góp phần";"to contribute, to make a contribution";8
+"gồm";"to consist of";11
+"gửi";"to send";8
+"gửi lời thăm";"to give one’s best regards";12
+"gừng";"ginger";13
+"gươm";"sword";10
+"gì?";"what?";1
+"gia đình";"family";7
+"gia vị";"spice, condiment";13
+"già";"old";8
+"giá";"price";11
+"giải khát";"to have a refreshing drink";11
+"giải thưởng";"prize, award";8
+"giảng";"to explain; to deliver a lecture";8 10
+"giảng viên";"teacher at a college or university";8
+"giao";"to assign";8
+"giao thông";"transportation, traffic";10
+"giáo sư";"professor";6
+"giận";"to be angry";11
+"giây";"second (1/60 of a minute)";6
+"giầy";"shoe";11
+"giấy";"paper";2
+"gió";"wind";14
+"gió mùa";"monsoon";14
+"giỏi";"good at something, well";3
+"giống";"to resemble, be like";12
+"giống như";"to resemble, be like";12
+"giờ";"hour";6
+"giờ học";"class period";8
+"giới thiệu";"to introduce (someone to someone)";7
+"giới thiệu ai với ai";"to introduce (someone to someone)";7
+"giúp";"to help";10
+"giữ";"to maintain, keep";12
+"giữa";"in the middle of";9
+"há miệng";"to open one’s mouth";12
+"hai";"two";2
+"hàng";"goods, articles for sale";11
+"hát";"to sing";3
+"hạt tiêu";"black pepper";13
+"hay";"interesting; or; often";1 3 6
+"hay là";"or";3
+"hay lắm!";"great!";9
+"hãy";"do something (imperative)";8
+"hằng ngày";"every day";8
+"hân hạnh";"to have the honor";7
+"hấp dẫn";"attractive";9
+"Chương trình nghe hấp dẫn đấy!";"That sounds good!";9
+"hè";"summer";7
+"hẹn";"make an appointment";9
+"hệ";"system, school";8
+"hệ mở rộng";"extension school";8
+"hết";"end; not any longer; to run out, be sold out";11 10 12
+"hết đau";"it doesn’t hurt any longer";12
+"hết sức";"extremely";13
+"hiện đại";"modern, contemporary";10
+"hiện giờ";"now";7
+"hiểu";"to understand";1
+"hiệu";"store, shop";3
+"hiệu ăn";"restaurant";11
+"hiệu sách";"bookstore";2
+"hình như";"it seems, it appears, apparently";12
+"ho";"(to) cough";12
+"họ";"they; last name";1 10
+"hoa";"flower";3
+"hoa hồng";"rose";10
+"hoa quả";"fruits (collective noun)";11
+"hoạt động";"activity";9
+"hoặc";"or";8
+"học";"to study, learn";2
+"học bổng";"scholarship";12
+"học kỳ";"semester";8
+"học sinh";"student, pupil (in an elementary or high school)";4
+"hỏi";"to ask (a question)";1
+"hỏng";"to break down; decayed (of the teeth)";12
+"họng";"throat";12
+"họp";"to meet, have a meeting,";8
+"hồ";"lake";9
+"hội";"association";11 10
+"hôm kia";"the day before yesterday";5
+"hôm nào";"some day (in the future)";10
+"hôm nay";"today";5
+"hôm qua";"yesterday";5
+"hồng";"pink";10
+"hộp";"box";11
+"hở";"polite particle, used before a personal pronoun in questions";10
+"hơi";"a little";9
+"hơn";"more than, over; used to form the comparative of adjectives and adverbs";8
+"hơn nữa";"furthermore";12
+"hợp đồng";"contract, agreement";12
+"hợp lại";"to merge, become united";11
+"hút";"to smoke";12
+"huyết áp cao";"high blood pressure";12
+"hương thơm";"fragrance";12
+"hướng";"direction";14
+"ít";"little, few";3
+"kém";"weak (in/at something); to, before (temporal preposition)";3 6
+"kéo dài";"to last (for a long time)";14
+"kéo đến";"to draw near";14
+"kẻo";"otherwise, if not, or else";10
+"kể cả";"including";13
+"kết thúc";"to (come to an) end, finish";10
+"kia";"there; that";1 2
+"kìa";"there, overthere";10
+"kiểm tra";"to check, to test, to examine";8
+"bài kiểm tra";"test, quiz";8
+"kiến trúc";"architecture";10
+"kinh đô";"capital (in the past, not present day)";10
+"kinh tế";"economy, economics";10
+"kính";"glasses";11
+"kính râm";"sunglasses";11
+"kịp";"to have enough time to do something on time";14
+"ký";"to sign";12
+"ký túc xá";"dormitory";9
+"kỷ niệm";"memory; to commemorate";14
+"làm kỷ niệm";"to remember";14
+"kỹ sư";"engineer";1
+"kỹ thuật";"technology";7
+"khá";"well, good; rather, pretty";9 3
+"khác";"another, different";8
+"khác nhau";"different, various";9 14
+"khách";"guest";10
+"khách du lịch";"tourists";10
+"khách hàng";"customer";11
+"khách sạn";"hotel";10
+"khám";"to examine (a patient)";12
+"khám bệnh";"to examine (a patient)";12
+"khám cho";"to examine (a patient)";12
+"khám bệnh cho";"to examine (a patient)";12
+"khám sức khoẻ";"check-up (a general physical examination)";12
+"khen";"to praise";3
+"khen quá lời";"to flatter someone too much";3
+"khi";"when";9
+"khi nào?";"when?";5
+"khi nào";"whenever, when (conjunction)";10
+"khi nào đấy";"sometime";14
+"khi nào đó";"sometime";14
+"khí hậu";"climate";10
+"khiêu vũ";"to dance";9
+"khó";"difficult, hard";1
+"khó chịu";"unpleasant";14
+"khoa";"faculty, school";8
+"khoa học";"science";8
+"khoá";"lock; to lock";10
+"khoảng";"approximately, about";8
+"khoẻ";"well, fine, healthy, strong";1
+"khỏi";"out of; to get better, recover";10 12
+"khô";"dry";14
+"không";"no, not; zero";1 2
+"không có gì";"no problem (reply to a thank you)";10
+"không có nhà";"not to be at home";4
+"không còn … nữa";"no longer, not any more";10
+"không dám";"you are welcome (reply to a thank you)";10
+"không … mà …";"not … but …";13
+"không mất tiền";"for free";10
+"khu";"area";9
+"khu thể thao";"sport area, athletic center";9
+"khu phố";"area (in a city)";11
+"khuyên";"to advise, suggest, recommend";12
+"là";"to be; then, yet; that";13 1 10
+"lá";"leaf";12
+"lái xe";"to drive; driver";1 2
+"lại";"to come over; again; moreover, in addition";8 10 5
+"làm";"to do, to make; to make (put someone into a certain state); to make someone be/ become";4 14 12
+"làm cho";"to make (put someone into a certain state); to make someone be/ become";14 12
+"làm gì?";"for what purpose?";9
+"làm ơn";"please";10
+"làm quen";"to meet, to be introduced";7
+"làm quen với";"to meet, to be introduced";7
+"làm việc";"to work";3
+"lạnh";"cold";9
+"Lào";"Laos";14
+"lắm";"very";3
+"lần";"time";3
+"lần sau";"next time";8
+"lần trước";"last time";8
+"lập gia đình";"to get married";7
+"lâu";"long";4
+"Lâu chưa?";"How long have you had this problem?";12
+"lâu ngày";"for a long time";4
+"lây";"to transmit (of a disease); infectious, contagious";12
+"lầy lội";"muddy";14
+"lấy";"to take; to take money (informal)";11 6
+"Cuốn này bán thế nào đây?";"How much is this book?";11
+"Lấy anh 50 nghìn";"I’ll take 50,000 dong (from you).";11
+"lấy chồng";"to get married (speaking of a woman)";7
+"lấy đồng hồ";"to set one’s watch";7
+"lấy vợ";"to get married (speaking of a man)";7
+"lẻ";"and (particle for numbers)";5
+"len";"wool";11
+"lê";"pear";2
+"lên";"to go up; to reach a certain age (speaking of children)";8 7
+"lên cao";"to rise";14
+"lên gác";"to go upstairs";8
+"lịch";"calendar";5
+"lịch sử";"history";7
+"liên doanh";"to have a joint venture";13
+"linh";"and (particle for numbers)";5
+"lít";"liter";14
+"lo";"to worry, be worried";1 3
+"loại";"kind, type";10
+"lon";"can (of beer, soda pop)";11
+"lối";"way (used for directions)";10
+"lỗi";"error, mistake";8
+"lời";"word";10
+"lớn";"big";2
+"lớp";"class";3
+"lúa";"rice (the plant in paddies)";13
+"lúa nước";"rice grown in flooded paddy fields, wet-rice";13
+"lụa";"silk";11
+"luận án";"thesis, dissertation";7
+"luật";"law";11
+"luật sư";"lawyer";13
+"lúc";"moment; temporal preposition";6
+"lúc ấy";"at that time";8
+"lúc đầu";"at first";13
+"luộc";"to boil";13
+"lụt";"flood, flooding";14
+"lươn";"eel";13
+"lượng";"amount";13
+"mà";"but; in order to; relative pronoun and adverb";9 14
+"má";"mother";4
+"mang";"to carry; wear";8 11
+"mang tên";"to be named for";8
+"mạnh";"strong";13
+"mát";"fresh and cool";13
+"mát mẻ";"pleasantly cool (reduplicative)";14
+"máy ảnh";"camera";14
+"máy bay";"airplane";3
+"máy vi tính";"computer";14
+"mặc";"to wear";11
+"mặc cả";"to bargain";11
+"mà cả";"to bargain";11
+"mặc dù";"though, although";13
+"mắm";"salted seafood";13
+"mắt";"eye";10
+"mặt hàng";"item, article for sale";11
+"mây";"cloud";14
+"mấy hôm nay";"these days, in recent days";14
+"mất";"to take time to do something";9
+"mất bao lâu?";"how long does it take?";9
+"màu";"color";2
+"mầu";"color";2
+"mấy?";"how many?";4
+"mấy";"a few";2
+"mấy giờ?";"what time?";6
+"mẹ";"mother";1
+"mèo";"cat";2
+"mét";"meter";14
+"mệt";"to be tired";9
+"mì";"wheat noodles";13
+"mía";"sugar cane";13
+"nước mía";"sugar cane juice";13
+"miền";"region, zone";10
+"miến";"glass noodles";13
+"mình";"I";4 3
+"mít tinh";"rally";10
+"mọi";"every";13
+"mọi người";"everyone, everybody";13 12
+"món";"dish";8
+"mong";"to expect, hope";12
+"Mong thư của anh";"I am looking forward to hearing from you soon";12
+"mỗi";"every, each";12
+"mỗi lúc một";"more and more";13
+"môn";"subject, course, class";4
+"mồng";"particle for dates";5
+"một";"one";2
+"một ít";"a little";13
+"một số";"some, several";9
+"một trong những";"one of";8
+"mở";"to open";1
+"mở rộng";"to extend";8
+"mỡ";"fat, grease";10
+"mời";"to invite; please; to treat (someone to something)";4 8 13
+"mới";"new; just (only a very short time ago); not … until …";1 7 13
+"mũ";"hat";1
+"mua";"to buy";1
+"mùa";"season";12
+"mục sư";"minister";8
+"mùi";"smell, odor";13
+"mùng";"particle for dates";5
+"muối";"salt; to salt, pickle";13
+"muốn";"to want";9 2
+"muộn";"late";6
+"mưa";"to rain";2
+"mưa phùn";"drizzle";14
+"mưa rào";"downpour";14
+"mức sống";"living standard";9
+"mười";"ten";2
+"mượn";"to borrow";1
+"Mỹ";"America, the U.S.A.";2
+"mỹ phẩm";"cosmetics";11
+"nạc";"lean";13
+"nải";"cluster";11
+"nam";"male; South; Southern";4 11
+"nào?";"what, which?";2
+"nào … cũng";"every";10
+"nào đó";"indefinite pronoun";14
+"này";"this";2
+"năm";"five; year";3 2
+"năm học";"academic year";7
+"năm nay";"this year";3 5
+"năm ngoái";"last year";5
+"nằm";"to lie, be located";10
+"nắng";"sunny";12
+"nặng";"serious, severe";12
+"nâng cao";"to raise, improve";13
+"nâu";"brown";2
+"nấu";"to cook";9
+"nem";"egg roll";13
+"nem rán";"egg roll";13
+"nên";"should; so";9
+"nền";"classifier for some abstract concepts";11
+"nếu";"if";9
+"nĩa";"fork";13
+"nó";"he, it";4
+"nói";"to speak (of, about)";7 2
+"nói về";"to speak (of, about)";7 2
+"nói chung";"generally speaking";11
+"nói chuyện";"to talk, converse";8
+"nón";"Vietnamese conical palm hat";11
+"nóng";"hot";9
+"nối";"to connect, link";9
+"nổi tiếng";"famous, renowned";8
+"nội";"domestic; internal medicine";11 12
+"khoa nội";"internal medicine";12
+"bác sĩ nội";"internist, specialist in internal diseases";12
+"nông dân";"farmer, peasant";13
+"nông nghiệp";"agriculture, farming";13
+"nông sản";"farm products";11
+"nông thôn";"countryside";9
+"nộp";"to hand in, turn in";11
+"nơi";"place";4
+"nơi nào đấy";"somewhere, someplace, in some place";14
+"nơi nào đó";"somewhere, someplace, in some place";14
+"núi";"mountain";9
+"nữ";"female";4
+"nửa";"half";6 13
+"nữa";"more, further; in";9 12
+"hai tiếng nữa";"in two hours";12
+"nước";"country; water";2 13
+"nước dùng";"broth";13
+"nước chấm";"dipping sauce";13
+"nước mắm";"fish sauce";13
+"nước ngoài";"foreign";10
+"nướng";"to roast, barbecue";13
+"Nga";"Russia; Russian";2
+"ngã";"to fall down (speaking of people)";14
+"ngã ba";"T-intersection";10
+"ngã tư";"intersection";10
+"ngạc nhiên";"to be surprised";12
+"ngại";"(to be) hesitant, unwilling";14
+"ngàn";"thousand";5
+"ngạt mũi";"(having) a stuffed nose";12
+"ngay";"just, right";11 10
+"ngày";"day";4
+"ngày càng";"more … every day";13
+"ngày lễ";"holiday";10
+"ngày mai";"tomorrow";5
+"ngày nay";"today, at the present time";10
+"ngắn";"short";4
+"ngân hàng";"bank";10
+"nghe";"to listen, hear";1 7
+"nghỉ";"to rest";2
+"nghỉ đông";"(to have) a winter break";7
+"nghỉ hai ngày";"having two days off";9
+"nghỉ hè";"(to have) a summer vacation";7
+"nghỉ mát";"to go on a summer vacation";
+"nghĩ";"to think";12
+"nghiên cứu";"to research";8
+"nghiên cứu sinh";"Ph.D. student";8
+"nghiện";"to be addicted to";13
+"nghìn";"thousand";5
+"ngoài";"outside of";9
+"ngoài ra";"in addition, besides";8
+"ngoại";"imported";11
+"ngoại khoá";"extracurricular";9
+"ngoại ngữ";"foreign language";3
+"ngoại thành";"suburbs, outskirts";9
+"ngoại văn";"foreign language (in some word-combinations)";10
+"cửa hàng sách báo ngoại văn";"foreign language bookstore";10
+"ngon";"tasty";1
+"ngọt";"sweet";11
+"ngôi";"classifier for buildings, houses";2
+"ngồi";"to sit, take a seat";8
+"ngủ";"to sleep";2
+"nguy hiểm";"dangerous";10
+"ngữ pháp";"grammar";8
+"ngứa";"itchy";12
+"ngựa";"horse";2
+"người";"classifier for some nouns denoting people; man, person";9 2
+"người bán hàng";"salesperson";11
+"người dân";"residents, people";11
+"người nào đấy";"someone";14
+"người nào đó";"someone";14
+"người ta";"they";11
+"nhà";"house, home";1
+"nhà báo";"reporter, journalist";11
+"nhà hàng";"restaurant";9
+"nhà hát";"theater";9
+"nhà khoa học";"scientist";11
+"nhà kinh tế";"economist";11
+"nhà máy";"factory";4
+"nhà nghỉ";"cottage";9
+"nhà nghiên cứu";"researcher";13
+"nhà nước";"state";10
+"nhà thơ";"poet";11
+"nhà thờ";"church";10
+"nhà văn";"writer, author";10
+"nhạc";"music";1
+"nhãn hiệu";"label";13
+"nhanh";"fast";6
+"nhanh chóng";"quickly, promptly";11
+"nhau";"each other, one another";11
+"nhảy";"to dance";10
+"nhắc";"to remind";11
+"nhầm";"to make a mistake";10
+"nhầm đường";"to take a wrong way";10
+"nhân";"to multiply";14
+"nhân với";"to multiply";14
+"nhân dân";"people";10
+"Nhân dân tệ";"renminbi (monetary unit of the People’s Republic of China)";11
+"nhân dịp";"on the occasion of";11
+"nhẫn";"ring (worn on the finger)";11
+"nhận";"to receive";13
+"nhập khẩu";"to import";11
+"nhất";"first; used to form the superlative of adjectives and adverbs";8 3
+"nhất là";"especially";13
+"Nhật";"Japan; Japanese";2
+"nhé";"O.K.?";8
+"nhẹ";"light, not heavy";2
+"nhiệt độ";"temperature";12
+"nhiệt đới";"tropical";11
+"nhiều";"much, many";3
+"nho";"grape";2
+"nhỏ";"small; quiet (speaking of sounds)";1 3
+"nhổ";"to take out, extract";12
+"nhồi";"to stuff";13
+"nhớ";"to remember; not forget; to miss";12 3 10
+"nhớ nhà";"to be homesick";12
+"như";"as, like; used to form the positive of adjectives and adverbs";8 7
+"như thế nào?";"what?, how?";3
+"nhức";"ache, a stinging pain";12
+"nhức đầu";"(to have a) headache";12
+"nhức nhối";"(to feel a) lasting pain";12
+"nhưng";"but";3
+"những";"plural marker";3
+"những người lớn tuổi";"old people";9
+"oi";"sultry, muggy";14
+"oi bức";"hot and muggy";14
+"ô";"umbrella";2
+"ô tô";"car";1
+"ốm";"to be sick";6
+"ôn";"to review, read (for a test, exam)";8
+"ồn";"noisy";14
+"ông";"grandfather; Mister; you";4 1
+"ở";"to live; in, at, on";2
+"ở đây";"here";3
+"ở đâu?";"where? (location)";2
+"ở đâu đấy";"somewhere";14
+"ở đâu đó";"somewhere";14
+"ở lại";"to stay, remain";9
+"ở nhà";"at home";2
+"ơi";"excuse me, hey";10 2
+"ớt";"(red) pepper";13
+"pha";"to mix (speaking of liquid)";13
+"phải";"must, to have to; right";9 10
+"bên phải";"on the right side";10
+"bên tay phải";"on the right side";10
+"phải không?";"interrogative expression";2
+"phản ánh";"to reflect";13
+"Pháp";"France; French";2
+"phát triển";"to develop";9
+"phần";"part";8
+"phần lớn";"most";9
+"phẩy";"comma";14
+"phía";"side, direction";10
+"về phía tây";"to the West";10
+"phim";"movie";4
+"phong cảnh";"view";12
+"phong kiến";"feudal";10
+"phong phú";"plentiful, abundant";11
+"phong tục";"custom";12
+"phòng";"room";3
+"phòng học tiếng";"language lab";8
+"phòng thử";"fitting room";11
+"phố";"street";1
+"phố phường";"streets (collective noun)";10
+"phổ biến";"common, popular";13
+"phổi";"lung";12
+"viêm phổi";"pneumonia";12
+"phở";"Vietnamese soup with rice noodle";10
+"phụ nữ";"woman";11
+"phục vụ";"to serve";11
+"phút";"minute";4
+"phương tiện";"means";10
+"qua";"to cross, pass; come by; through";8 9 10
+"qua đó";"by that means, thereby";9
+"quà";"gift";11
+"quá";"very, excessive";3
+"quả";"fruit; classifier for fruits";2
+"quan trọng";"important";10
+"quán";"small store or restaurant";11
+"quanh năm";"all year round, throughout the year";13
+"quay lại";"to go back, to make a U-turn";10
+"quần";"pants, trousers";2
+"quần áo";"clothes";10
+"quần vợt";"tennis";9
+"quầy";"stand, kiosk";10
+"quầy báo";"newsstand";10
+"quầy bán báo";"newsstand";10
+"quen";"to know, be acquainted with; to be used to";11 3
+"quên";"to forget";8
+"quốc gia";"national";2
+"Quốc tử giám";"Royal College (school for mandarins’ children";10
+"quyển";"classifier for books";2
+"ra";"to go out, come out";8
+"rán";"to fry";13
+"rau";"vegetables";11
+"rau muống";"bindweed, river greens";13
+"rau sống";"raw vegetables";13
+"răng";"tooth";12
+"bác sĩ răng";"dentist";12
+"rằng";"that";13
+"rất";"very";3
+"rẻ";"cheap, inexpensive";2
+"rẽ";"to turn";10
+"rẽ trái";"to turn left";10
+"rẽ tay trái";"to turn left";10
+"rét";"cold, freezing";14
+"riêng";"separate, private, own";9
+"rõ";"clear";3
+"rồi";"already; then, and then";8 6
+"rỗi";"free, having free time";10
+"rùa";"turtle";10
+"ruột thừa";"vermiform appendix";12
+"viêm ruột thừa";"appendicitis; appendicitis";12
+"rưởi";"and a half";13
+"rưỡi";"and a half";6 13
+"rượu";"alcoholic drink, liquor";13
+"rượu trắng";"vodka";13
+"rượu vang";"wine";13
+"sách";"book";1
+"sai";"incorrect";3
+"sản phẩm";"product";13
+"sản xuất";"to produce, make";13
+"sang";"to go, come over";7
+"sang năm";"next year";5
+"sáng";"morning";5
+"sao?";"why?";9
+"sao đắt thế?";"It’s too expensive.";11
+"sau";"after, behind";9
+"sau đó";"then, after that";9
+"sau khi";"after (conjunction)";9
+"sau này";"in the future";7
+"sáu";"six";2
+"sắp";"soon";7
+"sân bay";"airport";10
+"sân khấu";"1) stage, 2) theater (theatrical performance as an art)";9
+"sân vận động";"stadium";9
+"sầu riêng";"durian";13
+"sẽ";"to happen, occur [in future]";7
+"siêu thị";"supermarket";11
+"sinh";"to give birth; be born";7
+"sinh học";"biology";7
+"sinh nhật";"birthday";5
+"sinh tố";"juice";13
+"sinh viên";"student";1
+"so với";"in comparison with, compared to/with";11
+"song";"however";14
+"số";"number";10
+"số điện thoại";"phone number";9
+"sổ";"small notebook";4
+"sổ mũi";"(having) a runny nose";12
+"sông";"river";9
+"sông Cửu Long";"the Mekong River";9
+"đồng bằng sông Cửu Long (ĐBSCL)";"the Mekong River delta";14
+"sông Hồng";"the Red river (in Northern Vietnam)";9
+"sống";"to live";6
+"sốt";"fever";12
+"bị sốt";"to have a fever";12
+"sợ";"to fear, be afraid";3
+"sớm";"early";8
+"suốt";"throughout";12
+"suốt đêm";"throughout the night, all night long";12
+"sự";"an element, turning a verb into a noun";11
+"sữa";"milk";12
+"cây hoa sữa";"a type of tall tree in Hanoi";12
+"sức khoẻ";"health";12
+"sương mù";"fog";14
+"ta";"we";4
+"tai nạn";"accident";12
+"tái";"rare, half-cooked";13
+"tại";"in, at";8
+"tại sao?";"why?";9
+"tám";"eight";2
+"tan";"to clear, burn off (of fog)";14
+"tàn phá";"to destroy, ruin";10
+"tạnh";"to stop (of rain)";14
+"táo";"apple";2
+"tạp chí";"magazine, journal";1
+"tạp hoá";"dry goods";11
+"Tàu";"China; Chinese (in some word-combinations)";10
+"tàu hoả";"train (in Northern Vietnam)";10
+"tàu thuỷ";"ship";10
+"tay";"arm, hand";8
+"tắc";"congested";9
+"đường tắc";"roads are congested";9
+"tăng";"to increase";13
+"tăng lên";"to increase";13
+"tặng";"to present, make a gift to";11
+"tấn";"ton";12
+"tầng";"floor";8
+"tập";"to practice; collection (of poems, short stories)";8 11
+"tất";"socks";11
+"tất cả";"all";13
+"tất nhiên";"of course";9
+"tây";"west; western";10
+"Tây Ban Nha";"Spain; Spanish";2
+"tem";"(postage) stamp";10
+"tên";"name";1
+"Tết";"New Year";9
+"tiếc";"to regret";4
+"Tiếc quá!";"What a pity!";4
+"tiền";"money";9
+"tiền học";"tuition";13
+"tiến sĩ";"doctor (one who holds a doctorate)";7
+"tiện";"convenient";9
+"tiếng";"language; hour";6 2
+"tiếp xúc";"to communicate";9
+"tiểu thủ công nghiệp";"hand(i) craft";11
+"tiểu thuyết";"novel";11
+"tìm";"to look for, seek";14
+"tìm hiểu";"to learn about";9
+"tìm hiểu về";"to learn about";9
+"tìm được";"to find";14
+"tin";"news";12
+"tin học";"computer science";6
+"tình hình";"situation";12
+"Tình hình công việc của anh thế nào?";"How are you doing?";12
+"tính";"to calculate, figure out";13
+"tính ra";"to calculate in";14
+"tính ra độ F";"to calculate in F degrees";14
+"to";"big, large; loud; wide(ly); heavy; heavily (speaking of rain)";1 3 12
+"toà";"classifier for tall buildings";2
+"toán";"mathematics";7
+"tỏi";"garlic";13
+"tổ chức";"to organize";5
+"tôi";"I";4 1
+"tối";"evening";5
+"tối mai";"tomorrow evening";5
+"tôm";"shrimp";13
+"tốt";"good";1
+"tốt đẹp";"fine, splendid";10
+"tốt lắm!";"very good! excellent!";8
+"tốt nghiệp";"to graduate";7
+"tờ";"sheet; classifier for paper, newspapers";2
+"tới";"to come, arrive";8
+"tục ngữ";"proverb, saying";1
+"túi";"pocket, bag; bag";10 5
+"tuần";"week";4
+"tuần sau";"next week";5
+"tuần trước";"last week";5
+"tuổi";"age, year of age";7
+"tuy … nhưng …";"though, although";13
+"tuỳ theo";"according to, depending on";11
+"tuyết";"snow";14
+"tuyệt";"excellent";9
+"tư";"four; fourth; private";3 10
+"tư nhân";"private";11
+"từ";"word, vocabulary; from; from (a place); since";1 7 6 12
+"từ lâu rồi";"long since";12
+"từ điển";"dictionary";1
+"tự";"self";13
+"tự … lấy";"self";13
+"tức là";"that is";6
+"từng";"every";10 13
+"tươi";"fresh";13
+"tương";"thick soy sauce";13
+"tương đối";"relative(ly)";14
+"tương ớt";"hot chili sauce";13
+"tỷ";"billion";5
+"thác";"waterfall";14
+"thác nước";"waterfall";14
+"thái độ";"attitude";11
+"Thái Lan";"Thailand";5
+"tham gia";"to take part, participate";9
+"tham quan";"to visit (a place)";10
+"tháng";"month";3
+"tháng chạp";"December";5
+"tháng giêng";"January";5
+"tháng sau";"next month";5
+"tháng trước";"last month";5
+"Thanh-Nghệ-Tĩnh";"provinces of Thanh Hoá, Nghệ An and Hà Tĩnh";14
+"thanh niên";"young people";9
+"thành lập";"to found, establish";8
+"thành phố";"city";3
+"thạo";"to be adept at, familiar with";13
+"tháp";"tower";10
+"thay";"to replace, substitute";13
+"thay đổi";"to change";10
+"thày giáo";"(male) teacher";1
+"thăm";"to visit";7
+"thẳng";"straight";10
+"thân";"sincerely (a complimentary closing)";12
+"thân mến";"dear";12
+"thấp";"low, short";3
+"thật";"really";14
+"thật là";"really";14
+"thấy";"to see; feel";14 2
+"theo";"according to";6
+"theo anh";"in your opinion";10
+"theo tôi";"in my opinion";12
+"thế";"thus, so; and";9 7 10
+"như thế";"so, to such extent";10
+"thế à?";"oh! really?";5
+"thế giới";"world";14
+"thế kỷ";"century";10
+"thế nào?";"what?, how?";1 3
+"thế thì";"well then, in that case";9
+"thể dục";"exercises";9
+"tập thể dục";"to exercise";9
+"thể hiện";"to express, convey";11
+"thể thao";"sports";9
+"thêm … nữa";"more";10
+"thi";"to take a final exam; a final exam";4
+"thi vào";"to take entrance exams to a college";7
+"thì";"then";9
+"thì giờ";"time";9
+"thì phải";"undoubtedly (final particle)";13
+"thì sao?";"how about?";10
+"thị trường";"market (an economic situation)";11
+"thìa";"spoon";13
+"thích";"to like";3 2
+"thiên nhiên";"nature";11
+"thiếu";"to lack, be short of";13
+"thỉnh thoảng";"sometimes, occasionally";7
+"thịt";"meat";11
+"thịt bò";"beef";11
+"thịt lợn";"pork";11
+"thóc";"rice";13
+"thôi";"particle";11
+"thổi";"to blow";13
+"thổi cơm";"to cook rice";13
+"thống nhất";"to unite, unify; (re) unified";10
+"thơ";"poetry, poem";11
+"thơ mộng";"picturesque";14
+"thời gian";"time";9
+"một thời gian";"a time, a while";9
+"thời khoá biểu";"schedule";8
+"thời tiết";"weather";14
+"thu";"autumn, fall";12
+"thu hút";"to attract";9
+"thủ đô";"capital";10
+"thuận lợi";"favorable";14
+"thuốc";"medicine, drug";12
+"thuốc lá";"cigarette";12
+"thuỷ sản";"fresh and salt water seafood";11
+"Thuỵ Sĩ";"Switzerland";11
+"thuyền";"boat";10
+"thư";"letter";8
+"thư ký";"secretary";1
+"thư viện";"library";2
+"thứ";"kind, sort";11
+"thứ ba";"Tuesday";5
+"thứ bảy";"Saturday";5
+"thứ hai";"Monday";5
+"thứ năm";"Thursday";5
+"thứ sáu";"Friday";5
+"thứ tư";"Wednesday";5
+"thử";"to try";10
+"thưa";"polite initial particle";4
+"thực đơn";"menu";13
+"thực hiện";"to carry out, implement";14
+"thực phẩm";"food";11
+"thực tập";"to do one’s internship";6
+"thường";"usual; usually";7
+"thường thôi";"nothing special";12
+"thưởng thức";"to enjoy";13
+"trả";"to return";8
+"trả lời";"to answer";1
+"trai";"male";7
+"trái";"left";10
+"trang";"page";8
+"tranh";"painting";8
+"tranh thủ";"to make use, take advantage";9
+"tranh thủ thời gian";"to make use of free time";9
+"trăm";"hundred";5
+"trắng";"white";2
+"tre";"bamboo";11
+"trẻ";"young";1
+"trẻ con";"(collective noun) children";9
+"trên";"on, on top of";9
+"triều đại";"dynasty";10
+"triệu";"million";5
+"trong";"in, within, during; clear";9 14
+"trời trong xanh";"blue sky";14
+"trong đó có";"including";10
+"trong khi";"while, as";9
+"trộn";"to mix, blend";13
+"trông";"to look";11
+"trông ra";"to overlook";11
+"trở lạnh";"to become cold";14
+"trở nên";"to become";14
+"trở thành";"to become";9 14
+"trời";"weather";9
+"trú";"to shelter (intransitive)";14
+"trú mưa";"to shelter from the rain, take refuge from the rain";14
+"trung bình";"average";14
+"Trung Quốc";"China; Chinese";2
+"trung tâm";"center";8
+"truyền thống";"tradition";13
+"trừ";"except; to subtract";14 13
+"trừ đi";"to subtract";14
+"trưa";"noon";5
+"trước";"before; previous; in front of";8 9
+"trước đây";"before, formerly";9
+"trước hết";"first of all";13
+"trước khi";"before";9
+"trường";"school";2
+"trường đại học";"college, university";2
+"trường Đại học Bách khoa";"University of Technology";6
+"trường Đại học Kỹ thuật Massachusetts";"MIT";7
+"trường Đại học Quốc gia";"National University";2
+"trường trung học";"high school";7
+"trưởng";"a person who leads, rules or is in charge";11
+"trưởng phòng";"chief of an office";12
+"Úc";"Australia";9
+"uống";"to drink";3
+"uỷ ban";"committee";10
+"Uỷ ban nhân dân thành phố";"City Hall";10
+"ừ";"yeah";5
+"và";"and";3 2
+"vài";"several";9
+"vải";"fabric";11
+"vàng";"yellow; gold";11 2
+"vào";"to enter, be admitted";7
+"vay";"to borrow (speaking of money)";13
+"văn hoá";"culture";11 13
+"văn học";"literature";7
+"Văn miếu";"Temple of Literature";10
+"văn phòng";"office";7
+"văn phòng phẩm";"office supplies, stationery";11
+"vắng mặt";"to be absent";8
+"v.v…";"etc.";11
+"vân vân";"etc.";11
+"vấn đề";"problem; issue";13 12
+"vẫn";"still";7
+"vẫn còn";"still";7
+"vâng";"yes";1
+"vậy";"thus, so; and";14 6
+"như vậy";"so, to such extent";14 6
+"vé";"ticket";9
+"vẽ";"to draw";2
+"về";"to return, go back, come back; on, of, about";8 9 7 11
+"về hưu";"to retire";7
+"về nước";"to go back to one’s home country";8
+"vì";"because";9
+"vì sao?";"why?";9
+"vì vậy";"because of that";13
+"vì vậy nên";"because of that";13
+"vị trí";"place, position";11
+"vỉa hè";"sidewalk";11
+"việc";"business; an element, turning a verb into a noun";4 11
+"việc làm";"job";14
+"việc phát triển";"development";14
+"viêm";"inflamation; inflamed";12
+"viên";"tablet, pill; member of an organization";11 12
+"viện";"institute";10
+"viết";"to write";8
+"võ";"martial arts";9
+"vội";"to hurry, be in a rush";10
+"vở";"notebook";1
+"vợ";"wife";7
+"với";"with";1
+"với nhau";"with each other";8
+"vua";"king";10
+"vui";"to be glad, happy; have fun, be fun, enjoy, be enjoyable";8 1
+"vùng";"region";12
+"vừa";"just (only a very short time ago); to fit";11 7
+"vừa mới";"just (only a very short time ago)";7
+"vừa … vừa …";"both … and …";8
+"vườn";"garden";9
+"vườn bách thú";"zoo";9
+"vườn bách thảo";"botanical garden";9
+"xa";"far away";9
+"xanh";"green, blue";2
+"xanh lá cây";"green";11
+"xanh nước biển";"navy blue";11
+"xào";"to stir-fry";11
+"xấu";"ugly";3
+"xây dựng";"to build";10
+"xe";"vehicle, car";1
+"xe buýt";"bus";10
+"xe đạp";"bicycle";2
+"xe điện ngầm";"subway";10
+"xe đò";"long-distance bus (in Southern Vietnam)";10
+"xe khách";"long-distance bus (in Northern Vietnam)";10
+"xe lửa";"train (in Southern Vietnam)";10
+"xe máy";"motorbike";2
+"xem";"to watch, look, take a look; and we’ll see";4 12
+"xích-lô";"pedicab";10
+"xin";"to let, allow, permit";7
+"xin lỗi";"to excuse, beg pardon; apologize";1 12
+"xoài";"mango";2
+"xong";"to be finished, be done";8
+"xông";"to have a steam bath for a cure";12
+"xuất hiện";"to appear";10
+"xuất khẩu";"to export";11
+"xung quanh";"around";10
+"xuống";"to go down, get down";8
+"xuống nhà";"to go downstairs";8
+"xúp";"soup";13
+"y";"medicine, medical";9
+"y tá";"nurse";1
+"Ý";"Italy; Italian";2
+"yên tĩnh";"quiet";14
+"yêu";"to love";2
+"yếu";"weak";12
